@@ -14,8 +14,6 @@ I am a postgraduate student focused on personal coding development to optimize m
 * **College Projects:** Working on advanced MCA-level software development.  
 * **Tech Exploration:** Staying updated with emerging technologies and frameworks.
 
-<br>
-
 ---
 
 <br>
@@ -27,7 +25,6 @@ I am a postgraduate student focused on personal coding development to optimize m
 * Integrated interactive features including donation and contact forms.  
 * Built and launched a dedicated hosting platform for web service delivery.
 
-<br>
 
 ---
 
@@ -38,7 +35,6 @@ I am a postgraduate student focused on personal coding development to optimize m
 * **Data Analytics:** Hands-on experience in analyzing data and generating insights.  
 * **Web Development:** Proficient in building and managing end-to-end web solutions.
 
-<br>
 
 ---
 
@@ -48,7 +44,6 @@ I am a postgraduate student focused on personal coding development to optimize m
 * Python Libraries (Pandas, NumPy, etc.) and Data Science workflows.  
 * Advanced Data Structures and Algorithms.
 
-<br>
 
 ---
 
@@ -58,7 +53,6 @@ I am a postgraduate student focused on personal coding development to optimize m
 * Database management, SQL, and project architecture ideas.  
 * My journey from curiosity to code.
 
-<br>
 
 ---
 
@@ -69,7 +63,6 @@ I am a postgraduate student focused on personal coding development to optimize m
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrityunjay-singh43) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrityunjaysingh958@gmail.com) 
 
 
-<br>
 
 ---
 
