@@ -16,19 +16,19 @@ I am a postgraduate student focused on personal coding development to optimize m
 
 <br>
 
+## **🏆 Professional Badges & Achievements**
+[![HackerRank Gold](https://img.shields.io/badge/-HackerRank%20Gold%20Badge-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your-username) <br>
+* **Problem Solving:** *Gold Level Status in core algorithms and data structures.* <br>
+* **Data Analytics:** *Hands-on experience in analyzing data and generating insights.*
+---
+
+<br>
+
 ## **💼 Work Experience**
 **Web Developer Intern | Signinn Software Pvt. Ltd** *January 2025 - May 2025 • Chunar, Uttar Pradesh* <br>
 * **Web Architecture:** *Developed and maintained the company website to improve digital presence.* <br>
 * **Feature Integration:** *Integrated interactive features including donation and contact forms.* <br>
 * **Service Launch:** *Built and launched a dedicated hosting platform for web service delivery.*
----
-
-<br>
-
-## **🏆 Achievements & Skills**
-* **HackerRank:** *Gold Level Badges in Problem Solving.* <br>
-* **Data Analytics:** *Hands-on experience in analyzing data and generating insights.* <br>
-* **Web Development:** *Proficient in building and managing end-to-end web solutions.*
 ---
 
 <br>
