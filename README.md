@@ -95,11 +95,11 @@ I am a postgraduate student focused on personal coding development to optimize m
 <br>
 ## **🏆 Professional Badges** <br>
 
-[![HackerRank](https://img.shields.io/badge/-HackerRank%20Gold-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-username) [![Problem Solving](https://img.shields.io/badge/-Problem%20Solving%20Gold-FFA116?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-username)
-
-
-
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ---
+
+
+
 
 
 
