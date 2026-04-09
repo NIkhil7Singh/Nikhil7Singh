@@ -9,40 +9,32 @@ I am a postgraduate student focused on personal coding development to optimize m
 <br>
 
 ## **🔭 Current Focus**
-* **Coding Practice:** Daily problem-solving to refine logic and efficiency.  
-* **College Projects:** Working on advanced MCA-level software development.  
-* **Tech Exploration:** Staying updated with emerging technologies and frameworks.
+* **Coding Practice:** *Daily problem-solving to refine logic and efficiency.* * **College Projects:** *Working on advanced MCA-level software development.* * **Tech Exploration:** *Staying updated with emerging technologies and frameworks.*
 ---
 
 <br>
 
 ## **💼 Work Experience**
-**Web Developer Intern | Signinn Software Pvt. Ltd** *January 2025 - May 2025 • Chunar, Uttar Pradesh*
-* **Web Architecture:** Developed and maintained the company website to improve digital presence.  
-* **Feature Integration:** Integrated interactive features including donation and contact forms.  
-* **Service Launch:** Built and launched a dedicated hosting platform for web service delivery.
+**Web Developer Intern | Signinn Software Pvt. Ltd** *January 2025 - May 2025*
+* **Web Architecture:** *Developed and maintained the company website to improve digital presence.* * **Feature Integration:** *Integrated interactive features including donation and contact forms.* * **Service Launch:** *Built and launched a dedicated hosting platform for web service delivery.*
 ---
 
 <br>
 
 ## **🏆 Achievements & Skills**
-* **HackerRank:** Gold Level Badges in Problem Solving.  
-* **Data Analytics:** Hands-on experience in analyzing data and generating insights.  
-* **Web Development:** Proficient in building and managing end-to-end web solutions.
+* **HackerRank:** *Gold Level Badges in Problem Solving.* * **Data Analytics:** *Hands-on experience in analyzing data and generating insights.* * **Web Development:** *Proficient in building and managing end-to-end web solutions.*
 ---
 
 <br>
 
 ## **🌱 Currently Learning**
-* **Python Libraries:** Mastering Pandas, NumPy, and Data Science workflows.  
-* **DSA:** Advanced Data Structures and Algorithms.
+* **Python Libraries:** *Mastering Pandas, NumPy, and Data Science workflows.* * **DSA:** *Advanced Data Structures and Algorithms.*
 ---
 
 <br>
 
 ## **💬 Ask Me About**
-* **Backend:** Database management, SQL, and project architecture ideas.  
-* **Personal Journey:** My transition from curiosity to code.
+* **Backend:** *Database management, SQL, and project architecture ideas.* * **Personal Journey:** *My transition from curiosity to code.*
 ---
 
 <br>
@@ -59,4 +51,4 @@ I am a postgraduate student focused on personal coding development to optimize m
 
 <br>
 
-## **⚡ Fun Fact** I started coding out of curiosity, and now it feels like solving a new puzzle every single day! 🧩
+## **⚡ Fun Fact** *I started coding out of curiosity, and now it feels like solving a new puzzle every single day!* 🧩
