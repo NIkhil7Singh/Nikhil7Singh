@@ -93,8 +93,12 @@ I am a postgraduate student focused on personal coding development to optimize m
 
 
 <br>
-## **🏆 Professional Badges**
-[![HackerRank Gold](https://img.shields.io/badge/-HackerRank%20Gold%20Badge-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your-username)
+## **🏆 Professional Badges** <br>
+
+[![HackerRank](https://img.shields.io/badge/-HackerRank%20Gold-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-username) [![Problem Solving](https://img.shields.io/badge/-Problem%20Solving%20Gold-FFA116?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-username)
+
+
+
 ---
 
 
